@@ -56,7 +56,7 @@ function Success() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-pink-400 to-red-400 text-white text-center p-6">
-      <h1 className="text-4xl font-extrabold drop-shadow-lg">🎉 Revisa tu correo ❤️</h1>
+      <h1 className="text-4xl font-extrabold drop-shadow-lg">🎉 Revisa tu correo gmail ❤️</h1>
       <img src="/14FEB/img.gif" alt="San Valentín" className="w-72 h-auto mt-6 rounded-xl shadow-lg border-4 border-white animate-pulse" />
     </div>
   );
