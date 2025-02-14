@@ -35,7 +35,7 @@ function Success() {
   const sendEmail = async () => {
     try {
       const templateParams = {
-        to_email: "joraazam@espol.edu.ec",
+        to_email: "airenforever1206@gmail.com",
         to_name: "Lizbeth",
         subject: "¡Sorpresa de San Valentín!",
         message: "Revisa el archivo PDF con la invitación al evento de San Valentín.",
